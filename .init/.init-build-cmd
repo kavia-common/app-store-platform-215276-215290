@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/app-store-platform-215276-215290/app_store_database"
+}

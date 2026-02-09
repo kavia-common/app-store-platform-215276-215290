@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/app-store-platform-215276-215290/app_store_database"
+}
